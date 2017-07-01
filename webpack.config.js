@@ -1,15 +1,17 @@
 module.exports = {
-  entry: "./src/assets/javascripts/app.js",
+  // webpack folder's entry js - excluded from jekll's build process.
+  entry: "./webpack/entry.js",
   output: {
-    path: './src/assets/bundles/',
-    filename: "bundle.js"
+    // we're going to put the generated file in the assets folder so jekyll will grab it.
+      path: 'src/assets/javascripts/',
+      filename: "bundle.js"
   },
   module: {
     loaders: [
       {
         test: /\.jsx?$/,
         exclude: /(node_modules)/,
-        loader: 'babel', // 'babel-loader' is also a legal name to reference
+        loader: 'babel-loader',
         query: {
           presets: ['react', 'es2015']
         }

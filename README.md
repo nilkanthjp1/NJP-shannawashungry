@@ -1,14 +1,8 @@
-## Jekyll Starter
+## Jekyll & Webpack, integrated!
 
-This starter uses webpack, react, and jekyll.
+So you can have your React and serve it statically, too. Plugin-free and works with hosting on Github pages!
 
-It also includes a multi threaded rake task to sync webpack and jekyll.
-To run in dev mode: `rake start`
-To build: `rake b`
+![image](https://cloud.githubusercontent.com/assets/5208932/14959264/1f4a0504-1054-11e6-9971-5b5d5143112e.png)
 
-### Setup
-
-- `npm install -g webpack`
-- `npm install`
-- `bundle install`
-- `rake start`
+This example boilerplate is for the walkthrough post found here:
+- http://allizad.com/2016/05/02/using-webpack-with-jekyll
