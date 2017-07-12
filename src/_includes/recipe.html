@@ -1,0 +1,7 @@
+{{ ingredients }}
+
+ <div class="test">
+    {% for im in {{ include.images }} %}
+      {{ im.name }}
+    {% endfor %}
+  </div>

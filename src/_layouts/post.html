@@ -12,4 +12,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% for im in page.images %}
+    {{ im.name }}
+  {% endfor %}
+
 </article>
