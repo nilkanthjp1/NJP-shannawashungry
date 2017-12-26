@@ -11,9 +11,13 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+  <h2>Ingredients</h2>
+  {{ page.ingredients }}
+  <hr />
+  <h2>Method</h2>
+  {{ page.method }}
   {% for im in page.images %}
-    {{ im.name }}
+    <img src="/assets/images{{ im.url }}" />
   {% endfor %}
 
 </article>

@@ -20,6 +20,49 @@ images:
     title: fullsizerender-3
   - url: /2015/02/IMG_1029.jpg
     title: img_1029
+ingredients: >
+  Yield: makes 12 bite-size cheesecakes
+  
+  For the base: 
+  
+  1 tbsp and 1 tsp coconut oil, melted
+  1/4 cup maple syrup 
+  1 tsp baking powder
+  1/2 tsp of salt
+  1/4 cup ground almonds
+  4 tsp buckwheat flour 
+  1/4 cup cocoa powder
+  1 tbsp and 1 tsp almond milk 
+  
+  For the cheesecake:
+  
+  100g cream cheese
+  28ml sour cream 
+  1 tbsp sugar
+  1 tbsp + 1 tsp  Ener-G egg replacer (a combination of potato and tapioca starch)
+  2 tbsp almond milk 
+  
+   
+  
+method: >
+  <ol>
+  <li>Preheat oven to 350F.</li>
+  <li>Prepare your brownie moulds - silicone baking moulds are ideal because the brownies can be removed more easily. If you don't have them, you could use cupcake cases in a cupcake tray.</li>
+  <li>In a bowl combine the melted coconut oil and maple syrup.</li>
+  <li>In succession, add the salt, baking powder, flour and cocoa.</li>
+  <li>Fold in the ground almonds.</li>
+  <li>Add in the almond milk and mix until you have a smooth brownie mix.</li>
+  <li>Divide the brownie mixture between 12 cases or moulds.</li>
+  <li>Bake for 6 minutes.</li>
+  <li>Remove from oven and allow to cool.</li>
+  <li>Combine all the cheesecake ingredients together.</li>
+  <li>Top the brownies with the cheesecake mixture - between 1 1/2 and 2 tsp per brownie - and spread smoothly and as flat as possible.</li>
+  <li>Return your moulds to the oven for 10 minutes.</li>
+  <li>Switch off your oven BUT leave the cheesecakes in there for a further 5 minutes.</li>
+  <li>Remove from oven and allow to cool to room temperature.</li>
+  <li>Refrigerate the cheesecakes for at least 2 hours. (If using silicone moulds, use the freezer for 45 minutes. They'll pop out of the moulds easily)</li>
+  <li>Remove the cheesecake from the moulds and serve.</li>
+  </ol>
 ---
 <p><a href="http://shannawashungry.com/wp-content/uploads/2015/02/IMG_8518.jpeg"><img alt="IMG_8518" class="alignnone size-medium wp-image-166" height="298" src="http://shannawashungry.com/wp-content/uploads/2015/02/IMG_8518-300x298.jpeg" width="300"/></a><a href="http://shannawashungry.com/wp-content/uploads/2015/02/FullSizeRender-3.jpg"><img alt="FullSizeRender-3" class="alignnone size-medium wp-image-167" height="298" src="http://shannawashungry.com/wp-content/uploads/2015/02/FullSizeRender-3-300x298.jpg" width="300"/></a><a href="http://shannawashungry.com/wp-content/uploads/2015/02/IMG_1029.jpg"><img alt="IMG_1029" class="alignnone size-medium wp-image-168" height="200" src="http://shannawashungry.com/wp-content/uploads/2015/02/IMG_1029-300x200.jpg" width="300"/></a><a href="http://shannawashungry.com/wp-content/uploads/2015/02/FullSizeRender.jpg"><img alt="FullSizeRender" class="alignnone size-medium wp-image-164" height="298" src="http://shannawashungry.com/wp-content/uploads/2015/02/FullSizeRender-300x298.jpg" width="300"/></a></p>
 <p>Guys! I’ve never been good at maths but the following formula is 100% correct:<br/>
@@ -32,45 +75,4 @@ Grain-free brownies + egg-free brownies – refined sugar = PERFECT GUILT FREE B
 <li>Buckwheat is absolutely not a grain, and can be consumed on Ekadashi.</li>
 <li>There are only two brownies in the photos because the others were gobbled quite early on. No regrets and no apologies.</li>
 </ul>
-{% capture ingredients %}
-Yield: makes 12 bite-size cheesecakes
 
-For the base: 
-
-1 tbsp and 1 tsp coconut oil, melted
-1/4 cup maple syrup 
-1 tsp baking powder
-1/2 tsp of salt
-1/4 cup ground almonds
-4 tsp buckwheat flour 
-1/4 cup cocoa powder
-1 tbsp and 1 tsp almond milk 
-
-For the cheesecake:
-
-100g cream cheese
-28ml sour cream 
-1 tbsp sugar
-1 tbsp + 1 tsp  Ener-G egg replacer (a combination of potato and tapioca starch)
-2 tbsp almond milk
-{% endcapture %}
-{% capture method %}
-<ol>
-<li>Preheat oven to 350F.</li>
-<li>Prepare your brownie moulds - silicone baking moulds are ideal because the brownies can be removed more easily. If you don't have them, you could use cupcake cases in a cupcake tray.</li>
-<li>In a bowl combine the melted coconut oil and maple syrup.</li>
-<li>In succession, add the salt, baking powder, flour and cocoa.</li>
-<li>Fold in the ground almonds.</li>
-<li>Add in the almond milk and mix until you have a smooth brownie mix.</li>
-<li>Divide the brownie mixture between 12 cases or moulds.</li>
-<li>Bake for 6 minutes.</li>
-<li>Remove from oven and allow to cool.</li>
-<li>Combine all the cheesecake ingredients together.</li>
-<li>Top the brownies with the cheesecake mixture - between 1 1/2 and 2 tsp per brownie - and spread smoothly and as flat as possible.</li>
-<li>Return your moulds to the oven for 10 minutes.</li>
-<li>Switch off your oven BUT leave the cheesecakes in there for a further 5 minutes.</li>
-<li>Remove from oven and allow to cool to room temperature.</li>
-<li>Refrigerate the cheesecakes for at least 2 hours. (If using silicone moulds, use the freezer for 45 minutes. They'll pop out of the moulds easily)</li>
-<li>Remove the cheesecake from the moulds and serve.</li>
-</ol>
-{% endcapture %}
